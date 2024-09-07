@@ -9,9 +9,10 @@ This repo presents a very simplistic implementation of the Sparse Auto-Encoder (
 
 # Using the Repo 
 You can clone the repo to your local workspace and use the following terminal commands to train your own SAE on the MNIST data:
+```
 cd SAE
 python3 sae.py --epochs 100 --h_dims "[256, 128, 64]"
-
+```
 Furthermore, you can pass in the following arguments at the terminal to further customise the model/training procedure:
 * batch_size -> int: Sets the batch size for training the model -- default = 64.
 * epochs -> int: Sets the number of epochs for training -- default = 20.
