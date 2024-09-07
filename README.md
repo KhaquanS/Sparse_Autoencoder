@@ -1,6 +1,6 @@
 # Overview
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/367952a0-dbb4-4f39-a689-7e9d551770f7" alt="SAE inference sample" width="1400" height="200"/>
+    <img src="https://github.com/user-attachments/assets/367952a0-dbb4-4f39-a689-7e9d551770f7" alt="SAE inference sample" width="1800" height="200"/>
     <p><em>Figure: Original images on the top with their SAE reconstructed versions at the bottom.</em></p>
 </div>
 
