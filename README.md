@@ -1,6 +1,7 @@
 # Overview
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/216df41a-dc2e-4c89-be67-97e1359157e3" alt="SAE" width="400" height="400"/>
+    <img src="![plot](https://github.com/user-attachments/assets/367952a0-dbb4-4f39-a689-7e9d551770f7)" alt="SAE inference sample" width="400" height="400"/>
+    <p><em>Figure: Original images on the top with their SAE reconstructed versions at the bottom.</em></p>
 </div>
 
 This repo presents a very simplistic implementation of the Sparse Auto-Encoder (SAE). The SAE are a class of regularised Auto-Encoders which provide the following major benefit:
